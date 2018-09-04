@@ -1,2 +1,2 @@
-Git is a version control system
-Git is free software
+This is the first git of mine. Git for free.
+			20180905 Km
